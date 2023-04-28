@@ -1,0 +1,51 @@
+body{
+    margin: 50px;
+
+}
+h1{
+    font-size: 40px;
+    display: inline;
+    background-color: antiquewhite;
+    padding: 10px;
+    border-radius: 15%;
+}
+#img1{
+    position: relative;
+    top:15px;
+    margin-top: 20px;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+    float: left;
+    border-radius: 15px;
+}
+#wrap{
+    position:relative;
+}
+
+#at{
+    text-shadow: 1px 1px 10px red;
+}
+#intro{
+    font-size: 25px;
+    font-weight:600;
+    border: 8px dotted violet;
+    display:inline-block;
+    margin:10px;
+    padding:20px;
+}
+#gain,#goal{
+    font-size: 15px;
+    font-weight: 600;
+}
+#title1{
+    display: inline;
+    background-color: aquamarine;
+    padding:5px
+}
+#img2{
+    position: relative;
+    margin-left: 5px;
+    border-radius: 50%;
+}
